@@ -41,12 +41,9 @@ lib/
 
 <table>
 <tr>
+<td><img src="screenshots/splash.png" width="250"/></td>
 <td><img src="screenshots/homepage.png" width="250"/></td>
-<td><img src="screenshots/crypto.png" width="250"/></td>
-</tr>
-<tr>
-<td><img src="screenshots/market.png" width="250"/></td>
-<td><img src="screenshots/details.png" width="250"/></td>
+<td><img src="screenshots/search.png" width="250"/></td>
 </tr>
 </table>
 
